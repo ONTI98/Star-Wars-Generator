@@ -6,4 +6,4 @@ This application features an event handler, that will, when pressed, randomize t
 To make some of the values in the object fit into the designated divs, i used  the texty overflow feature in  CSS to ensure that the user will be able to scroll through
 the div and see all the information they need to access.
 
-![image alt]()
+![image alt](https://github.com/ONTI98/Star-Wars-Generator/blob/main/Fullstack399.png?raw=true)
